@@ -1,0 +1,20 @@
+PODS:
+  - SwiftHash (2.0.2)
+  - SwiftLint (0.43.1)
+
+DEPENDENCIES:
+  - SwiftHash (~> 2.0)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - SwiftHash
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  SwiftHash: 6d312abe61c8359bdef8d0093642f3a70b1c17ba
+  SwiftLint: 99f82d07b837b942dd563c668de129a03fc3fb52
+
+PODFILE CHECKSUM: 4bcac8c05d28fb802b93452fc124489192508606
+
+COCOAPODS: 1.10.1
